@@ -15,6 +15,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Welcome to Git!")
+            
+            Button("Click me") {
+                
+            }
         }
         .padding()
         .padding()
