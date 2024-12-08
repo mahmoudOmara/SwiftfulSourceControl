@@ -16,9 +16,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Welcome to Git!")
             
-            Button("Click me") {
-                
-            }
+            
         }
         .padding()
         .padding()
