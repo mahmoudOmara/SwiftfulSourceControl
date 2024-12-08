@@ -16,6 +16,10 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Welcome to Git!")
             
+            Button("Add New Item") {
+                
+            }
+            
             
         }
         .padding()
